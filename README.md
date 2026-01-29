@@ -33,12 +33,4 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saigo0&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saigo0&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
