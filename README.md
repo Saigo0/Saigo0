@@ -55,5 +55,11 @@
 </p>
 
 <p align="center">
-  📫 <strong>Reach me at:</strong> <a href="mailto:jose.otavio2707@gmail.com">jose.otavio2707@gmail.com</a>
+  📫 <strong>Let's connect:</strong><br><br>
+  <a href="mailto:jose.otavio2707@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/josé-otávio-ávila-alves-pires-202554267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
