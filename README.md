@@ -51,8 +51,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saigo0&theme=dracula&hide_border=true" alt="José's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saigo0&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saigo0&theme=dracula&hide_border=true" alt="José's GitHub Streak" />
 </p>
 
 <p align="center">
