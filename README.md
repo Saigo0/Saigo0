@@ -23,7 +23,6 @@
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
-  <!-- Frontend -->
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
@@ -31,7 +30,6 @@
   
   <br><br>
   
-  <!-- Backend & Architecture -->
   <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a>
   <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" /></a>
   <a href="https://laravel-livewire.com" target="_blank"><img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white" alt="Livewire" /></a>
@@ -39,7 +37,6 @@
   
   <br><br>
 
-  <!-- Database, Tools & 3D -->
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /></a>
